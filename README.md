@@ -1,1 +1,1 @@
-# Jenkins
+# Jenkins for DevOps lab
